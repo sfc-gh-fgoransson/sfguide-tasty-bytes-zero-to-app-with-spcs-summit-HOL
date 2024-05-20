@@ -1,7 +1,6 @@
 # Deploy a Data App with Snowflake Snowpark Container Services (SPCS)
 <!-- ------------------------ -->
 ## Overview 
-Duration: 1
 
 Snowflake is a terrific platform on which to build data applications. The unique characteristics and
 cloud-based design allow for building applications that scale with data and workload. This tutorial
@@ -23,9 +22,12 @@ Both the Processing and the User Interface Layers are then hosted on Snowpark Co
 ### Prerequisites
 - A Snowflake account, and familiarity with the Snowsight interface
 - Privileges necessary to create a user, database, and warehouse in Snowflake
-- Ability to install and run software on your computer
 - Basic experience using git
 - Intermediate knowledge of Node.js and React JS
+
+
+- GitHub Codespaces -or- Ability to install and run software on your computer
+
 
 ### What You’ll Learn 
 - How to configure and build a custom API Powered by Snowflake, written in Node.js
@@ -33,7 +35,11 @@ Both the Processing and the User Interface Layers are then hosted on Snowpark Co
 - How to run and test the frontend and API on your machine
 
 ### What You’ll Need 
+Option 1, using GitHub Codespaces:
+- [GitHub Codespaces](https://github.com/) GitHub Account with credits for GitHub Codespaces
+Option 2, local build:
 - [VSCode](https://code.visualstudio.com/download) Installed
+- [Docker](https://docs.docker.com/get-docker/) Installed
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Installed
 - [NodeJS](https://nodejs.org/en/download/) Installed
 - [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) Installed
