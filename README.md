@@ -35,9 +35,9 @@ Both the Processing and the User Interface Layers are then hosted on Snowpark Co
 - How to run and test the frontend and API on your machine
 
 ### What You’ll Need 
-Option 1, using GitHub Codespaces:
+#### Option 1, using GitHub Codespaces:
 - [GitHub Codespaces](https://github.com/) GitHub Account with credits for GitHub Codespaces
-Option 2, local build:
+#### Option 2, local build:
 - [VSCode](https://code.visualstudio.com/download) Installed
 - [Docker](https://docs.docker.com/get-docker/) Installed
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Installed
